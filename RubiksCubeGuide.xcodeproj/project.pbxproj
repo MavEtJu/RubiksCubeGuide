@@ -99,7 +99,6 @@
 			isa = PBXGroup;
 			children = (
 				E81DE22E1FA9ECB1001BB3F4 /* AppDelegate.h */,
-				E81DE24A1FA9F470001BB3F4 /* Images */,
 				E81DE22F1FA9ECB1001BB3F4 /* AppDelegate.m */,
 				E81DE2311FA9ECB1001BB3F4 /* RootViewController.h */,
 				E81DE2321FA9ECB1001BB3F4 /* RootViewController.m */,
@@ -112,6 +111,7 @@
 				E81DE23F1FA9ECB1001BB3F4 /* LaunchScreen.storyboard */,
 				E81DE2421FA9ECB1001BB3F4 /* Info.plist */,
 				E81DE2431FA9ECB1001BB3F4 /* main.m */,
+				E81DE24A1FA9F470001BB3F4 /* Images */,
 			);
 			path = RubiksCubeGuide;
 			sourceTree = "<group>";
