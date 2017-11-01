@@ -11,7 +11,10 @@
 @interface DataViewController : UIViewController
 
 @property (strong, nonatomic) IBOutlet UILabel *dataLabel;
-@property (strong, nonatomic) id dataObject;
+@property (strong, nonatomic) IBOutlet UILabel *explanationLabel;
+@property (strong, nonatomic) IBOutlet UILabel *formulaLabel;
+@property (strong, nonatomic) IBOutlet UIImageView *cubeImageView;
+@property (strong, nonatomic) NSDictionary *dataObject;
 
 @end
 

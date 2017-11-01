@@ -15,6 +15,23 @@
 		E81DE23E1FA9ECB1001BB3F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E81DE23D1FA9ECB1001BB3F4 /* Assets.xcassets */; };
 		E81DE2411FA9ECB1001BB3F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E81DE23F1FA9ECB1001BB3F4 /* LaunchScreen.storyboard */; };
 		E81DE2441FA9ECB1001BB3F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E81DE2431FA9ECB1001BB3F4 /* main.m */; };
+		E81DE2571FA9F487001BB3F4 /* Cube12.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE24B1FA9F487001BB3F4 /* Cube12.png */; };
+		E81DE2581FA9F487001BB3F4 /* Cube14.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE24C1FA9F487001BB3F4 /* Cube14.png */; };
+		E81DE2591FA9F487001BB3F4 /* Cube7.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE24D1FA9F487001BB3F4 /* Cube7.png */; };
+		E81DE25A1FA9F487001BB3F4 /* Cube5.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE24E1FA9F487001BB3F4 /* Cube5.png */; };
+		E81DE25B1FA9F487001BB3F4 /* Cube13.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE24F1FA9F487001BB3F4 /* Cube13.png */; };
+		E81DE25C1FA9F487001BB3F4 /* Cube6.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2501FA9F487001BB3F4 /* Cube6.png */; };
+		E81DE25D1FA9F487001BB3F4 /* Cube15.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2511FA9F487001BB3F4 /* Cube15.png */; };
+		E81DE25E1FA9F487001BB3F4 /* Cube8.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2521FA9F487001BB3F4 /* Cube8.png */; };
+		E81DE25F1FA9F487001BB3F4 /* Cube10.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2531FA9F487001BB3F4 /* Cube10.png */; };
+		E81DE2601FA9F487001BB3F4 /* Cube11.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2541FA9F487001BB3F4 /* Cube11.png */; };
+		E81DE2611FA9F487001BB3F4 /* Cube9.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2551FA9F487001BB3F4 /* Cube9.png */; };
+		E81DE2621FA9F487001BB3F4 /* Cube16.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2561FA9F487001BB3F4 /* Cube16.png */; };
+		E81DE2671FAA7CBD001BB3F4 /* CubeMiddleDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2631FAA7CBC001BB3F4 /* CubeMiddleDone.png */; };
+		E81DE2681FAA7CBD001BB3F4 /* CubeTopDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2641FAA7CBD001BB3F4 /* CubeTopDone.png */; };
+		E81DE2691FAA7CBD001BB3F4 /* CubeBottomDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2651FAA7CBD001BB3F4 /* CubeBottomDone.png */; };
+		E81DE26A1FAA7CBD001BB3F4 /* CubeTopMiddleDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2661FAA7CBD001BB3F4 /* CubeTopMiddleDone.png */; };
+		E81DE26C1FAA8D3F001BB3F4 /* ernorubik.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +49,23 @@
 		E81DE2401FA9ECB1001BB3F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E81DE2421FA9ECB1001BB3F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E81DE2431FA9ECB1001BB3F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E81DE24B1FA9F487001BB3F4 /* Cube12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube12.png; sourceTree = SOURCE_ROOT; };
+		E81DE24C1FA9F487001BB3F4 /* Cube14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube14.png; sourceTree = SOURCE_ROOT; };
+		E81DE24D1FA9F487001BB3F4 /* Cube7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube7.png; sourceTree = SOURCE_ROOT; };
+		E81DE24E1FA9F487001BB3F4 /* Cube5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube5.png; sourceTree = SOURCE_ROOT; };
+		E81DE24F1FA9F487001BB3F4 /* Cube13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube13.png; sourceTree = SOURCE_ROOT; };
+		E81DE2501FA9F487001BB3F4 /* Cube6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube6.png; sourceTree = SOURCE_ROOT; };
+		E81DE2511FA9F487001BB3F4 /* Cube15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube15.png; sourceTree = SOURCE_ROOT; };
+		E81DE2521FA9F487001BB3F4 /* Cube8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube8.png; sourceTree = SOURCE_ROOT; };
+		E81DE2531FA9F487001BB3F4 /* Cube10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube10.png; sourceTree = SOURCE_ROOT; };
+		E81DE2541FA9F487001BB3F4 /* Cube11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube11.png; sourceTree = SOURCE_ROOT; };
+		E81DE2551FA9F487001BB3F4 /* Cube9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube9.png; sourceTree = SOURCE_ROOT; };
+		E81DE2561FA9F487001BB3F4 /* Cube16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cube16.png; sourceTree = SOURCE_ROOT; };
+		E81DE2631FAA7CBC001BB3F4 /* CubeMiddleDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeMiddleDone.png; sourceTree = SOURCE_ROOT; };
+		E81DE2641FAA7CBD001BB3F4 /* CubeTopDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeTopDone.png; sourceTree = SOURCE_ROOT; };
+		E81DE2651FAA7CBD001BB3F4 /* CubeBottomDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeBottomDone.png; sourceTree = SOURCE_ROOT; };
+		E81DE2661FAA7CBD001BB3F4 /* CubeTopMiddleDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeTopMiddleDone.png; sourceTree = SOURCE_ROOT; };
+		E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ernorubik.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				E81DE22E1FA9ECB1001BB3F4 /* AppDelegate.h */,
+				E81DE24A1FA9F470001BB3F4 /* Images */,
 				E81DE22F1FA9ECB1001BB3F4 /* AppDelegate.m */,
 				E81DE2311FA9ECB1001BB3F4 /* RootViewController.h */,
 				E81DE2321FA9ECB1001BB3F4 /* RootViewController.m */,
@@ -79,6 +114,30 @@
 				E81DE2431FA9ECB1001BB3F4 /* main.m */,
 			);
 			path = RubiksCubeGuide;
+			sourceTree = "<group>";
+		};
+		E81DE24A1FA9F470001BB3F4 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */,
+				E81DE24E1FA9F487001BB3F4 /* Cube5.png */,
+				E81DE2501FA9F487001BB3F4 /* Cube6.png */,
+				E81DE24D1FA9F487001BB3F4 /* Cube7.png */,
+				E81DE2521FA9F487001BB3F4 /* Cube8.png */,
+				E81DE2551FA9F487001BB3F4 /* Cube9.png */,
+				E81DE2531FA9F487001BB3F4 /* Cube10.png */,
+				E81DE2541FA9F487001BB3F4 /* Cube11.png */,
+				E81DE24B1FA9F487001BB3F4 /* Cube12.png */,
+				E81DE24F1FA9F487001BB3F4 /* Cube13.png */,
+				E81DE24C1FA9F487001BB3F4 /* Cube14.png */,
+				E81DE2511FA9F487001BB3F4 /* Cube15.png */,
+				E81DE2561FA9F487001BB3F4 /* Cube16.png */,
+				E81DE2651FAA7CBD001BB3F4 /* CubeBottomDone.png */,
+				E81DE2631FAA7CBC001BB3F4 /* CubeMiddleDone.png */,
+				E81DE2641FAA7CBD001BB3F4 /* CubeTopDone.png */,
+				E81DE2661FAA7CBD001BB3F4 /* CubeTopMiddleDone.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,9 +198,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E81DE25B1FA9F487001BB3F4 /* Cube13.png in Resources */,
+				E81DE2621FA9F487001BB3F4 /* Cube16.png in Resources */,
+				E81DE25F1FA9F487001BB3F4 /* Cube10.png in Resources */,
+				E81DE2681FAA7CBD001BB3F4 /* CubeTopDone.png in Resources */,
 				E81DE2411FA9ECB1001BB3F4 /* LaunchScreen.storyboard in Resources */,
+				E81DE25E1FA9F487001BB3F4 /* Cube8.png in Resources */,
+				E81DE2581FA9F487001BB3F4 /* Cube14.png in Resources */,
 				E81DE23E1FA9ECB1001BB3F4 /* Assets.xcassets in Resources */,
+				E81DE25A1FA9F487001BB3F4 /* Cube5.png in Resources */,
 				E81DE23C1FA9ECB1001BB3F4 /* Main.storyboard in Resources */,
+				E81DE2671FAA7CBD001BB3F4 /* CubeMiddleDone.png in Resources */,
+				E81DE25D1FA9F487001BB3F4 /* Cube15.png in Resources */,
+				E81DE2591FA9F487001BB3F4 /* Cube7.png in Resources */,
+				E81DE25C1FA9F487001BB3F4 /* Cube6.png in Resources */,
+				E81DE2571FA9F487001BB3F4 /* Cube12.png in Resources */,
+				E81DE2691FAA7CBD001BB3F4 /* CubeBottomDone.png in Resources */,
+				E81DE2611FA9F487001BB3F4 /* Cube9.png in Resources */,
+				E81DE26C1FAA8D3F001BB3F4 /* ernorubik.jpg in Resources */,
+				E81DE26A1FAA7CBD001BB3F4 /* CubeTopMiddleDone.png in Resources */,
+				E81DE2601FA9F487001BB3F4 /* Cube11.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
