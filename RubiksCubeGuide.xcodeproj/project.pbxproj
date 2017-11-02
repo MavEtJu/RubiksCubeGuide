@@ -34,6 +34,7 @@
 		E81DE26C1FAA8D3F001BB3F4 /* ernorubik.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */; };
 		E824F4E61FAABFE800F84E64 /* logo-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */; };
 		E824F4E71FAABFE800F84E64 /* logo-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */; };
+		E824F4E91FAAC27900F84E64 /* logo-1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E824F4E81FAAC27900F84E64 /* logo-1024x1024.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ernorubik.jpg; sourceTree = SOURCE_ROOT; };
 		E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-60x60@3x.png"; sourceTree = SOURCE_ROOT; };
 		E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-60x60@2x.png"; sourceTree = SOURCE_ROOT; };
+		E824F4E81FAAC27900F84E64 /* logo-1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-1024x1024.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 			children = (
 				E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */,
 				E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */,
+				E824F4E81FAAC27900F84E64 /* logo-1024x1024.png */,
 				E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */,
 				E81DE24E1FA9F487001BB3F4 /* Cube5.png */,
 				E81DE2501FA9F487001BB3F4 /* Cube6.png */,
@@ -226,6 +229,7 @@
 				E81DE26C1FAA8D3F001BB3F4 /* ernorubik.jpg in Resources */,
 				E81DE26A1FAA7CBD001BB3F4 /* CubeTopMiddleDone.png in Resources */,
 				E81DE2601FA9F487001BB3F4 /* Cube11.png in Resources */,
+				E824F4E91FAAC27900F84E64 /* logo-1024x1024.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
