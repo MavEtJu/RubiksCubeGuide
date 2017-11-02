@@ -32,6 +32,8 @@
 		E81DE2691FAA7CBD001BB3F4 /* CubeBottomDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2651FAA7CBD001BB3F4 /* CubeBottomDone.png */; };
 		E81DE26A1FAA7CBD001BB3F4 /* CubeTopMiddleDone.png in Resources */ = {isa = PBXBuildFile; fileRef = E81DE2661FAA7CBD001BB3F4 /* CubeTopMiddleDone.png */; };
 		E81DE26C1FAA8D3F001BB3F4 /* ernorubik.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */; };
+		E824F4E61FAABFE800F84E64 /* logo-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */; };
+		E824F4E71FAABFE800F84E64 /* logo-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +68,8 @@
 		E81DE2651FAA7CBD001BB3F4 /* CubeBottomDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeBottomDone.png; sourceTree = SOURCE_ROOT; };
 		E81DE2661FAA7CBD001BB3F4 /* CubeTopMiddleDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubeTopMiddleDone.png; sourceTree = SOURCE_ROOT; };
 		E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ernorubik.jpg; sourceTree = SOURCE_ROOT; };
+		E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-60x60@3x.png"; sourceTree = SOURCE_ROOT; };
+		E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-60x60@2x.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +123,8 @@
 		E81DE24A1FA9F470001BB3F4 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				E824F4E51FAABFE700F84E64 /* logo-60x60@2x.png */,
+				E824F4E41FAABFE700F84E64 /* logo-60x60@3x.png */,
 				E81DE26B1FAA8D3F001BB3F4 /* ernorubik.jpg */,
 				E81DE24E1FA9F487001BB3F4 /* Cube5.png */,
 				E81DE2501FA9F487001BB3F4 /* Cube6.png */,
@@ -208,10 +214,12 @@
 				E81DE23E1FA9ECB1001BB3F4 /* Assets.xcassets in Resources */,
 				E81DE25A1FA9F487001BB3F4 /* Cube5.png in Resources */,
 				E81DE23C1FA9ECB1001BB3F4 /* Main.storyboard in Resources */,
+				E824F4E71FAABFE800F84E64 /* logo-60x60@2x.png in Resources */,
 				E81DE2671FAA7CBD001BB3F4 /* CubeMiddleDone.png in Resources */,
 				E81DE25D1FA9F487001BB3F4 /* Cube15.png in Resources */,
 				E81DE2591FA9F487001BB3F4 /* Cube7.png in Resources */,
 				E81DE25C1FA9F487001BB3F4 /* Cube6.png in Resources */,
+				E824F4E61FAABFE800F84E64 /* logo-60x60@3x.png in Resources */,
 				E81DE2571FA9F487001BB3F4 /* Cube12.png in Resources */,
 				E81DE2691FAA7CBD001BB3F4 /* CubeBottomDone.png in Resources */,
 				E81DE2611FA9F487001BB3F4 /* Cube9.png in Resources */,
@@ -369,6 +377,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = RubiksCubeGuide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.RubiksCubeGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -383,6 +392,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = RubiksCubeGuide/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.RubiksCubeGuide;
 				PRODUCT_NAME = "$(TARGET_NAME)";
