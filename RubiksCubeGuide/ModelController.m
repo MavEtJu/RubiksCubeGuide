@@ -58,7 +58,7 @@
                  @"page": @"Middle layer - one of two",
                  @"image": [self image:@"Cube6.png"],
                  @"formula": @"RTR'T'F'T'F",
-                 @"explanation": @"Use these to get the middle layer done.",
+                 @"explanation": @"Use this and the next one to get the middle layer done.",
                  };
         [pageData addObject:page];
 
@@ -66,7 +66,7 @@
                  @"page": @"Middle layer - two of two",
                  @"image": [self image:@"Cube7.png"],
                  @"formula": @"F'T'FTRTR'",
-                 @"explanation": @"Use these to get the middle layer done.",
+                 @"explanation": @"Use this and the next one to get the middle layer done.",
                  };
         [pageData addObject:page];
 
@@ -74,7 +74,7 @@
                  @"page": @"Middle layer - done",
                  @"image": [self image:@"CubeMiddleDone.png"],
                  @"formula": [NSNull null],
-                 @"explanation": @"The middle layer is done, now the middle tiles of the top layer are to be put in place. Move them from the top layer to the middle layer with the ",
+                 @"explanation": @"The middle layer is done, now the middle tiles of the top layer are to be put in place.",
                  };
         [pageData addObject:page];
 
@@ -82,7 +82,7 @@
                  @"page": @"Top layer inside - one of six",
                  @"image": [self image:@"Cube8.png"],
                  @"formula": @"RTBT'B'R'T'",
-                 @"explanation": @"Use these to get the insides to the right location.",
+                 @"explanation": @"Use this to get the insides to the right location.",
                  };
         [pageData addObject:page];
 
@@ -90,7 +90,7 @@
                  @"page": @"Top layer inside - two of six",
                  @"image": [self image:@"Cube9.png"],
                  @"formula": @"(RTBT'B'R'T')2",
-                 @"explanation": @"Use these to turn the insides to the right position."
+                 @"explanation": @"Use this to turn the insides to the right position."
                  };
         [pageData addObject:page];
 
@@ -98,7 +98,7 @@
                  @"page": @"Top layer inside - three of six",
                  @"image": [self image:@"Cube10.png"],
                  @"formula": @"FTRT'R'F'",
-                 @"explanation": @"Optional"
+                 @"explanation": @"Optional: Swap three middle pieces."
                  };
         [pageData addObject:page];
 
@@ -106,7 +106,7 @@
                  @"page": @"Top layer inside - four of six",
                  @"image": [self image:@"Cube11.png"],
                  @"formula": @"LTFT'F'L'FTRT'R'F'",
-                 @"explanation": @"Optional"
+                 @"explanation": @"Optional: Swap two pieces."
                  };
         [pageData addObject:page];
 
